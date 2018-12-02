@@ -7,7 +7,7 @@
 root="ajfernandez.me"
 nodeName=(
 	"jupiter"
-#	"venus" -> ...config it first
+	"venus"
 	"saturn"
 )
 
