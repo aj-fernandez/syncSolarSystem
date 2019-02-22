@@ -8,7 +8,7 @@ root="ajfernandez.me"
 nodeName=(
 	"jupiter"
 	"venus"
-	"saturn"
+#	"saturn" ec2 end subscription
 )
 
 totalNodes=${#nodeName[@]}
