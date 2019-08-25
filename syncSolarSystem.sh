@@ -15,7 +15,7 @@ nodeName=(
 totalNodes=${#nodeName[@]}
 
 if [ "$1" = "--help" ] || [ "$1" = "-h" ]; then
-	printf "Usage: [sudo] ./syncSolarSystem argument\n\t-jupitert\t\t\tsync Jupiter node.\n\t-venus\t\t\tsync Venus node."
+	printf "Usage: ./syncSolarSystem argument\n\t-jupitert\t\t\tsync Jupiter node.\n\t-venus\t\t\tsync Venus node."
 	elif [ "$1" = "-jupiter" ]; then
 		printf '\nSyncing node: jupiter.%s\n\n' "${root}"
 		#show each synchronized file:
