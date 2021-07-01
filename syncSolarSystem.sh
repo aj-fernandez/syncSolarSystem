@@ -5,7 +5,7 @@
 # @Sync myDocs/ & myRepos/ & myLabs/ & myRepos folders among network nodes.
 # @update: added the possibility to select a particular node to sync.
 
-root="ajfernandez.me"
+root="site"
 nodeName=(
 	"jupiter"
 	"venus"
